@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW2.2</string>
+    <string name="mainActivity_name">Просмотр фото</string>
+    <string name="backButton">Назад</string>
+    <string name="nextButton">Вперед</string>
+    <string name="urlString">http://myfile.org/%d</string>
+</resources>
